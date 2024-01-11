@@ -1,6 +1,6 @@
 # S3
 
-- application.yml
+- src/main/resources/application.yml
 
 ```
 cloud:
